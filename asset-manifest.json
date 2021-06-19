@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//sunstrike112.github.io/static/css/main.32f7ecbd.chunk.css",
+    "main.js": "//sunstrike112.github.io/static/js/main.17b94f39.chunk.js",
+    "main.js.map": "//sunstrike112.github.io/static/js/main.17b94f39.chunk.js.map",
+    "runtime-main.js": "//sunstrike112.github.io/static/js/runtime-main.7b7069f0.js",
+    "runtime-main.js.map": "//sunstrike112.github.io/static/js/runtime-main.7b7069f0.js.map",
+    "static/js/2.bf40cb22.chunk.js": "//sunstrike112.github.io/static/js/2.bf40cb22.chunk.js",
+    "static/js/2.bf40cb22.chunk.js.map": "//sunstrike112.github.io/static/js/2.bf40cb22.chunk.js.map",
+    "static/js/3.4082afb7.chunk.js": "//sunstrike112.github.io/static/js/3.4082afb7.chunk.js",
+    "static/js/3.4082afb7.chunk.js.map": "//sunstrike112.github.io/static/js/3.4082afb7.chunk.js.map",
+    "index.html": "//sunstrike112.github.io/index.html",
+    "static/css/main.32f7ecbd.chunk.css.map": "//sunstrike112.github.io/static/css/main.32f7ecbd.chunk.css.map",
+    "static/js/2.bf40cb22.chunk.js.LICENSE.txt": "//sunstrike112.github.io/static/js/2.bf40cb22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b7069f0.js",
+    "static/js/2.bf40cb22.chunk.js",
+    "static/css/main.32f7ecbd.chunk.css",
+    "static/js/main.17b94f39.chunk.js"
+  ]
+}
